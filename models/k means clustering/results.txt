@@ -1,0 +1,2 @@
+Silhouette Score for First 50% of Data: 0.4055578112602234
+Silhouette Score for Full Dataset: 0.4068896770477295

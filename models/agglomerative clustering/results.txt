@@ -1,0 +1,2 @@
+Silhouette Score for First 50% of Data (Agglomerative Clustering): 0.4011995196342468
+Silhouette Score for Full Dataset (Agglomerative Clustering): 0.38432419300079346

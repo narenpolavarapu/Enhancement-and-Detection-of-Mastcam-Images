@@ -1,0 +1,2 @@
+Silhouette Score for First 50% of Data (GMM): 0.35919857025146484
+Silhouette Score for Full Dataset (GMM): 0.37376266717910767

@@ -1,0 +1,2 @@
+Silhouette Score for First 50% of Data (KMeans++): 0.40364161133766174
+Silhouette Score for Full Dataset (KMeans++): 0.39983007311820984
